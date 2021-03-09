@@ -1,4 +1,4 @@
-package adyen
+package adyen2
 
 func NewFingerprintString() string {
     fp := NewDF()
