@@ -1,4 +1,4 @@
-module github.com/rafaeltorres324/go-adyen-ces
+module github.com/rafaeltorres324/adyen2
 
 go 1.16
 
