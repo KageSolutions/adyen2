@@ -1,10 +1,8 @@
-module zhaojunlike/adyen
+module github.com/rafaeltorres324/adyen2
 
-go 1.13
+go 1.16
 
 require (
-	github.com/pion/dtls/v2 v2.0.0
-	zhaojunlike/logger v1.0.0
+	//github.com/pion/dtls/v2 v2.0.0
+	//zhaojunlike/logger v1.0.0
 )
-
-replace zhaojunlike/logger => ../logger
