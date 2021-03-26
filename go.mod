@@ -1,4 +1,4 @@
-module github.com/rafaeltorres324/adyen2
+module github.com/KageSolutions/adyen2
 
 go 1.16
 
